@@ -33,12 +33,16 @@ Versatile Python Developer with a knack for building robust and scalable solutio
 
 Creative UX Designer specializing in transforming ideas into content that shapes a focused, clean, and seamless user journey. Expert at organizing concepts to deliver an orderly and engaging user experience.
 
+---
+
 ### Languages
 
 #### Spanish: Native
 
 ####English: 90%
 fluent in reading, conversation and writing
+
+---
 
 ### Content Creator
 
