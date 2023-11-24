@@ -1,4 +1,4 @@
-## Hi there and welcome 👋
+# Welcome 👋
 
 ---
 
@@ -32,3 +32,15 @@ Versatile Python Developer with a knack for building robust and scalable solutio
 ##### UX Designer
 
 Creative UX Designer specializing in transforming ideas into content that shapes a focused, clean, and seamless user journey. Expert at organizing concepts to deliver an orderly and engaging user experience.
+
+### Languages
+
+Spanish: Native
+English: 90%
+fluent in reading, conversation and writing
+
+### Content Creator
+
+I have 2 podcasts, both in spanish, one about entrepreneurship and the other about yogi philosophy and meditation.
+De emprendedor a empresario
+Viviendo como un yogui en sociedad
