@@ -35,13 +35,15 @@ Creative UX Designer specializing in transforming ideas into content that shapes
 
 ### Languages
 
-Spanish: Native
-English: 90%
+#### Spanish: Native
+
+####English: 90%
 fluent in reading, conversation and writing
 
 ### Content Creator
 
 I have 2 podcasts, both in spanish, one about entrepreneurship and the other about yogi philosophy and meditation.
-[De emprendedor a empresario] (https://podcasts.apple.com/mx/podcast/de-emprendedor-a-empresario/id1450238355)
 
-[Viviendo como un yogui en sociedad] (https://podcasts.apple.com/mx/podcast/viviendo-como-un-yogui-en-sociedad/id1559970833)
+#### [De emprendedor a empresario] (https://podcasts.apple.com/mx/podcast/de-emprendedor-a-empresario/id1450238355)
+
+#### [Viviendo como un yogui en sociedad] (https://podcasts.apple.com/mx/podcast/viviendo-como-un-yogui-en-sociedad/id1559970833)
