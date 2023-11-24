@@ -25,8 +25,10 @@ Versatile web developer fluent in Java and Python, adept marketer. Specializing 
 
 ### Relevant Skills:
 
-Python Developer
+##### Python Developer
+
 Versatile Python Developer with a knack for building robust and scalable solutions. Proven expertise in crafting efficient code for seamless functionality. Excel in analyzing project requirements and delivering high-performance applications.
 
-UX Designer
+##### UX Designer
+
 Creative UX Designer specializing in transforming ideas into content that shapes a focused, clean, and seamless user journey. Expert at organizing concepts to deliver an orderly and engaging user experience.
