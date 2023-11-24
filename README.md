@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cuauhtemoc Cataño and i´m from Mexico city, I´m actually studying software engineering in a remote set up, have a marketing background and interested in advancing my carrer on software development and Data science
+Versatile web developer fluent in Java and Python, adept marketer. Specializing in architecting cutting-edge systems, With a unique blend of technical prowess and strategic marketing, I empower businesses to thrive in the digital landscape. Let's transform your ventures with innovation and precision. Currently interested in advancing my carrer on software development and Data science
 
 - 🔭 I’m currently creating apps and websites
 - 🌱 I’m currently advancing my learning on: Flutter dev, Python and Web development
