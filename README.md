@@ -69,7 +69,7 @@ src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-
 
 #### Spanish: Native
 
-####English: 90%
+#### English: 90%
 <p>fluent in reading, conversation and writing</p>
 
 
