@@ -1,4 +1,3 @@
-# Welcome 👋
 
 ---
 
@@ -56,13 +55,13 @@ src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-
 </ul>
 ### Relevant Skills:
 
-##### Python Developer
+#### Python Developer
 
-Versatile Python Developer with a knack for building robust and scalable solutions. Proven expertise in crafting efficient code for seamless functionality. Excel in analyzing project requirements and delivering high-performance applications.
+<p>Versatile Python Developer with a knack for building robust and scalable solutions. Proven expertise in crafting efficient code for seamless functionality. Excel in analyzing project requirements and delivering high-performance applications.</p>
 
-##### UX Designer
+#### UX Designer
 
-Creative UX Designer specializing in transforming ideas into content that shapes a focused, clean, and seamless user journey. Expert at organizing concepts to deliver an orderly and engaging user experience.
+<p>Creative UX Designer specializing in transforming ideas into content that shapes a focused, clean, and seamless user journey. Expert at organizing concepts to deliver an orderly and engaging user experience.</p>
 
 ---
 
@@ -71,7 +70,8 @@ Creative UX Designer specializing in transforming ideas into content that shapes
 #### Spanish: Native
 
 ####English: 90%
-fluent in reading, conversation and writing
+<p>fluent in reading, conversation and writing</p>
+
 
 ---
 
