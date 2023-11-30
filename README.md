@@ -1,6 +1,3 @@
-
----
-
 <!--
 **cuauhtemoccatano/cuauhtemoccatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +22,7 @@ Versatile web developer fluent in Java and Python, adept marketer. Specializing 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [cuauhtemoccatano@gmail.com](mailto:cuauhtemoccatano@gmail.com)
 * 🧠  I'm learning Flutter and Arduino development
-* 🤝  I'm open to collaborating on Data Science, Web development
+* 🤝  I'm open to collaborating on Data Science, Web development, start up development
 
 <a href="https://www.twitch.tv/codigo_es" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
@@ -42,11 +39,11 @@ src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/cuauhtemoccatano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cuauhtemoccatano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/codigo_es" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-## Badges
+### Badges
 
 <a href="https://github.com/cuauhtemoccatano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuauhtemoccatano&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Support Me
+### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
@@ -54,7 +51,7 @@ src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-
 
 </ul>
 
-## Relevant Skills:
+### Relevant Skills:
 
 #### Python Developer
 
@@ -68,18 +65,18 @@ src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-
 
 ### Languages
 
-#### Spanish: Native
+##### Spanish: Native
 
-#### English: 90%
-<p>fluent in reading, conversation and writing</p>
+##### English: 90%
+<p>Fluent in reading, conversation and writing</p>
 
 
 ---
 
 ### Content Creator
 
-I have 2 podcasts, both in spanish, one about entrepreneurship and the other about yogi philosophy and meditation.
+<p>I have 2 podcasts, both in spanish, one about entrepreneurship and the other about yogi philosophy and meditation.</p>
 
-#### [De emprendedor a empresario] (https://podcasts.apple.com/mx/podcast/de-emprendedor-a-empresario/id1450238355)
+[De emprendedor a empresario](https://podcasts.apple.com/mx/podcast/de-emprendedor-a-empresario/id1450238355)
 
-#### [Viviendo como un yogui en sociedad] (https://podcasts.apple.com/mx/podcast/viviendo-como-un-yogui-en-sociedad/id1559970833)
+[Viviendo como un yogui en sociedad](https://podcasts.apple.com/mx/podcast/viviendo-como-un-yogui-en-sociedad/id1559970833)
