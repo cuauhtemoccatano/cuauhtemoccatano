@@ -22,7 +22,7 @@ Versatile web developer fluent in Java and Python, adept marketer. Specializing 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [cuauhtemoccatano@gmail.com](mailto:cuauhtemoccatano@gmail.com)
 * 🧠  I'm learning Flutter and Arduino development
-* 🤝  I'm open to collaborating on Data Science, Web development, start up development
+* 🤝  I'm open to collaborating on Data Science, Web development, Start up development
 
 <a href="https://www.twitch.tv/codigo_es" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/codigo_es?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
